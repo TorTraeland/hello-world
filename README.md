@@ -1,2 +1,3 @@
 # hello-world
-Short description of my hello world repository
+
+Some edits to the readme.md
